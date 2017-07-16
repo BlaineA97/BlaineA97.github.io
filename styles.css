@@ -1,0 +1,99 @@
+body {
+  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/08/24/27/0824273085a1a9993af9ff8f9e7cc095--backgrounds-wallpapers-phone-wallpapers.jpg);
+  background-repeat: repeat;
+  background-size: 100%;
+  font-family: cursive;
+  font-size: 18px;
+}
+
+div#game_categories_1 {
+  display: inline-block;
+  padding-right: 50px;
+}
+
+div#game_categories_2 {
+  display: inline-block;
+  padding-left: 50px;
+}
+
+div#back_01 {
+  opacity: 0.8;
+  background-color: #F0FFFF;
+  max-width: 30%;
+  border-radius: 40px 15px 40px 15px;
+}
+
+div#back_02 {
+  opacity: 0.8;
+  background-color: #F0FFFF;
+  max-width: 90%;
+  border-radius: 70px 70px 15px 15px;
+}
+
+div#back_03 {
+  opacity: 0.8;
+  background-color: #F0FFFF;
+  max-width: 90%;
+  border-radius: 70px 70px 15px 15px;
+}
+
+div#categories_all {
+  font-size: 2.0rem;
+  font-weight: bold;
+  opacity: 0.9;
+  background-image: url(https://vignette2.wikia.nocookie.net/mario/images/f/f6/Question_Block_Art_-_New_Super_Mario_Bros.png/revision/latest?cb=20120603213532);
+  background-size: cover;
+  background-size: 55% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div#reg_char_01 {
+  opacity: 0.8;
+  background-color: #F0FFFF;
+  max-width: 40%;
+  border-radius: 70px 70px 15px 15px;
+}
+
+div#reg_char_02 {
+  opacity: 0.8;
+  background-color: #F0FFFF;
+  max-width: 80%;
+  border-radius: 70px 70px 15px 15px;
+}
+
+div#reg_char_03 {
+  opacity: 0.8;
+  background-color: #F0FFFF;
+  max-width: 30%;
+  border-radius: 70px 70px 15px 15px;
+}
+
+div#reg_char_04 {
+  opacity: 0.8;
+  background-color: #F0FFFF;
+  max-width: 30%;
+  padding-top: 50px;
+  border-radius: 70px 70px 70px 70px;
+}
+
+div#footer_01 {
+  opacity: 0.8;
+  background-color: #ADE5E9;
+  max-width: 90%;
+  border-radius: 120px 120px 120px 120px;
+}
+
+div#footer_02 {
+  opacity: 0.8;
+  background-color: #ADE5E9;
+  max-width: 90%;
+  border-radius: 120px 120px 120px 120px;
+}
+
+div#footer_03 {
+  opacity: 0.4;
+  background-color: #ADE5E9;
+  max-width: 90%;
+  border-radius: 120px 120px 120px 120px;
+}
